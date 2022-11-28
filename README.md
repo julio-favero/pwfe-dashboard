@@ -48,5 +48,5 @@ npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
 ```
 
-# Referencies:
+## Referencies:
 https://www.makeuseof.com/react-create-collapsible-side-navigation-menu/
