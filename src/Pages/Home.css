@@ -1,0 +1,32 @@
+
+*{
+
+    list-style: none;
+    text-decoration: none;
+}
+
+.tela{
+    list-style: none;
+    text-decoration: none;
+    background-color: #D9D9D9;
+    /* display: grid; */
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    /* grid-column: 1fr 4fr; */
+}
+
+.menu-lateral-closed{
+    width: 5%;
+    background-color: #ffffff;
+}
+
+.menu-lateral-open{
+    width: 25%;
+    background-color: #ffffff;
+}
+
+
+.display{
+    width: 100%;
+}
