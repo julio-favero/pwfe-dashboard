@@ -20,25 +20,25 @@ npm start
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Dependecies
-# React Bootstrap
+React Bootstrap
 https://react-bootstrap.netlify.app/
 
 ```bash
 npm install react-bootstrap bootstrap
 ```
-# React Modal
+React Modal
 https://www.npmjs.com/package/react-modal
 
 ```bash
 npm install --save react-modal
 ```
-# React Modal
+React Modal
 https://www.npmjs.com/package/react-router-dom
 
 ```bash
 npm install react-router-dom
 ```
-# Material UI
+Material UI
 https://mui.com/material-ui/material-icons/
 
 ```bash
@@ -48,5 +48,5 @@ npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
 ```
 
-## Referencies:
+# Referencies:
 https://www.makeuseof.com/react-create-collapsible-side-navigation-menu/
